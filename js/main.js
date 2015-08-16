@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$('.card').onclick(){
+	$('.card').onclick(); {
 	
 }
-}));
+});
